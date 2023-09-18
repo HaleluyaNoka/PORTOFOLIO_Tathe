@@ -505,4 +505,8 @@ th {
         width: 1260px;
         margin-left: 55px;
     }
+
+    .geser {
+        left: 220px;
+    }
 }
