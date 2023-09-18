@@ -492,21 +492,21 @@ th {
 
 @media only screen and (max-width: 800px) {
     .container {
-        width: 1260px;
+        width: 1300px;
         margin-left: 55px;
     }
 
     .contact {
-        width: 1260px;
+        width: 1300px;
         margin-left: 55px;
     }
 
     .footer {
-        width: 1260px;
+        width: 1300px;
         margin-left: 55px;
     }
 
     .geser {
-        left: 220px;
+        left: 260px;
     }
 }
