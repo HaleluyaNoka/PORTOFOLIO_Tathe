@@ -106,12 +106,13 @@ ul li {
 }
 
 .para1 {
-    width:  1000px;
+    width:  1200px;
     font-size: 15px;
     padding-bottom: 150px;
     font-family: verdana;
     position: relative;
     left: 20px;
+    line-height: 20px;
 }
 
 th {
